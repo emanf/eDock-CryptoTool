@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "emanf.crypto_tool",
+  "title": "Crypto Tool",
+  "description": "A simple real-time crypto and text transform utility.",
+  "version": "0.1.0",
+  "last_modified": "2026-06-28",
+  "author": "eManF",
+  "icon": "m:lock",
+  "category": "utility",
+  "keywords": ["crypto", "transform", "encoding"],
+  "min_edock_version": "0.1.0",
+  "license": ""
+}
