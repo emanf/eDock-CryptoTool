@@ -1,4 +1,4 @@
-<p align="center"><img src="sc_crypto_tool.png" width="600" alt="Logo"></p>
+<p align="center"><img src="sc_crypto_tool.png" width="600" alt="screen shot"></p>
 
 # eDock-CryptoTool
 
