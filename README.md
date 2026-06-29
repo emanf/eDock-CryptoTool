@@ -1,3 +1,5 @@
+<p align="center"><img src="sc_crypto_tool.png" width="600" alt="Logo"></p>
+
 # eDock-CryptoTool
 
 eDock-CryptoTool is a simple encryption and decryption app for programmers.
